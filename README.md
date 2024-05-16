@@ -1,4 +1,4 @@
-# 🌐 TCPServerNET
+# 🌐 EchoNet
 
 ## 📖 项目简介
 TCPServerNET 是一个基于 .NET 的简易网络通信服务器，支持 TCP 和 UDP 协议。该项目旨在提供一个基本的网络通信示例，包括数据的发送和接收，以及基本的网络设置。
